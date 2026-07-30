@@ -1,7 +1,7 @@
-**Creative Engineer · Mobile**
+**Creative · Engineer · Mobile**
 
 - **[Unfilter](https://github.com/escapebranch/unfilter)** · On-device Android app analyzer that reveals the frameworks and tech stacks of installed apps, with offline usage, process, and storage insights.
-- **[OneCompress](https://github.com/escapebranch/onecompress)** · Local-first media compression app — fast, private, no ads, no limits.
+- **[OneCompress](https://github.com/escapebranch/onecompress)** · Local-first media compression app - fast, private, no ads, no limits.
 
 | Portfolio | LinkedIn | X | GitHub |
 | :---: | :---: | :---: | :---: |
