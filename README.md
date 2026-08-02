@@ -2,6 +2,7 @@
 
 - **[Unfilter](https://github.com/escapebranch/unfilter)** · On-device Android app analyzer that reveals the frameworks and tech stacks of installed apps, with offline usage, process, and storage insights.
 - **[OneCompress](https://github.com/escapebranch/onecompress)** · Local-first media compression app - fast, private, no ads, no limits.
+- **[Thrifty](https://github.com/r4khul/thrifty)** · Comprehensive personal finance management application with background sync support to custom backend.
 
 | Portfolio | LinkedIn | X | GitHub |
 | :---: | :---: | :---: | :---: |
