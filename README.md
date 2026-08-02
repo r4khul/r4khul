@@ -4,6 +4,8 @@
 - **[OneCompress](https://github.com/escapebranch/onecompress)** · all-in-one compression application for any file - local, fast, private, light, zero ads, no limits.
 - **[Thrifty](https://github.com/r4khul/thrifty)** · comprehensive personal finance management application with background sync support to custom backend.
 
+when bored, i raise PRs to other OSS :)
+
 <br>
 
 <p align="center">
